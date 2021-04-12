@@ -18,6 +18,10 @@ nav {
   text-align: center;
 }
 
+nav>a {
+  padding: 0 20px;
+}
+
 h1 {
   font-size: 28px;
   text-align: center;
