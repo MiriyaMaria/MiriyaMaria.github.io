@@ -10,9 +10,8 @@ div {
   text-align: center;
 }
 
-nav>ul {
-  list-style-type: none;
-  text-align: center;
+img {
+  width: 100px;
 }
 
 h1 {
