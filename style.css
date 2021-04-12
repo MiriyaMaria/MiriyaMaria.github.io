@@ -1,5 +1,5 @@
 body {
-  background-color: #DAAFFF;
+  background-color: #FFDEAF;
   font-size: 14px;
   text-align: left;
   font-family: sans-serif;
@@ -7,6 +7,11 @@ body {
 }
 
 div {
+  text-align: center;
+}
+
+nav>ul {
+  list-style-type: none;
   text-align: center;
 }
 
